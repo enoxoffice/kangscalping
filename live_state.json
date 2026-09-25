@@ -1,1 +1,1 @@
-{"v":1,"signals":[],"history":[],"qTable":{},"markov":{"transitions":{},"lastState":"BEAR","nextTrend":null},"settings":{"balance":1000,"riskPct":1,"leverage":10},"updatedAt":1790320391009}
+{"v":1,"signals":[],"history":[],"qTable":{},"markov":{"transitions":{},"lastState":"BEAR","nextTrend":null},"settings":{"balance":1000,"riskPct":1,"leverage":20},"updatedAt":1790334897068}
